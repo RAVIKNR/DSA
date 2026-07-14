@@ -40,7 +40,7 @@ public:
     }
 
     t->next=curr;
-    if(before==NULL){
+    if(pos==1){
         return prev;
     }
     before->next=prev;
