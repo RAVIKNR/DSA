@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RAVIKNR/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/RAVIKNR/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RAVIKNR/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RAVIKNR/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RAVIKNR/DSA/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RAVIKNR/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/RAVIKNR/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RAVIKNR/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RAVIKNR/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RAVIKNR/DSA/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RAVIKNR/DSA/tree/master/0015-3sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -41,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RAVIKNR/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
