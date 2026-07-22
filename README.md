@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RAVIKNR/DSA/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/RAVIKNR/DSA/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/RAVIKNR/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RAVIKNR/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/RAVIKNR/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/RAVIKNR/DSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/RAVIKNR/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/RAVIKNR/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RAVIKNR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/RAVIKNR/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
