@@ -3,10 +3,11 @@ public:
      
        struct cmp {
         bool operator()(pair<int, string> &a, pair<int, string> &b) {
-            if (a.first == b.first) {
-                return a.second < b.second;   // lexicographically larger word has higher priority
+            if (a.first != b.first) {
+                 return a.first > b.first;  
+               
             }
-            return a.first > b.first;         // smaller frequency has higher priority
+          return a.second < b.second;  
         }
     };
 
