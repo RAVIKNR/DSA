@@ -5,7 +5,6 @@ public:
         bool operator()(pair<int, string> &a, pair<int, string> &b) {
             if (a.first != b.first) {
                  return a.first > b.first;  
-               
             }
           return a.second < b.second;  
         }
@@ -18,7 +17,7 @@ public:
         for(int i=0;i<words.size();i++){
           f[words[i]]++;
         }
-       
+        
         for(auto it:f){
           int frequency = it.second;
           string element = it.first;
