@@ -10,9 +10,8 @@ public:
       for(auto it:f){
         int frequency= it.second;
         int value = it.first;
-        pair<int,int>curr={frequency,value};
         if(pq.size()<k){
-            pq.push(curr);
+            pq.push({frequency,value});
             continue;
         }
         else if(pq.top().first>frequency){
@@ -20,7 +19,7 @@ public:
         }
         else{
              pq.pop();
-             pq.push(curr);
+             pq.push({frequency,value});
              continue;
         }
       }
