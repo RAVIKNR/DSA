@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RAVIKNR/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/RAVIKNR/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RAVIKNR/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAVIKNR/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RAVIKNR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/RAVIKNR/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RAVIKNR/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RAVIKNR/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/RAVIKNR/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RAVIKNR/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAVIKNR/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RAVIKNR/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RAVIKNR/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RAVIKNR/DSA/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/RAVIKNR/DSA/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/RAVIKNR/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAVIKNR/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RAVIKNR/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
