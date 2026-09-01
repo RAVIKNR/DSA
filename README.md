@@ -100,8 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RAVIKNR/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Trie
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
+## Stack
+|  |
+| ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RAVIKNR/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
