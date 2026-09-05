@@ -11,9 +11,9 @@ public:
         }
           string res = "";
         while(!p.empty()){
+            if(res.empty() || p.top().second!=res.back()){
             pair<int,char>p1=p.top();
             p.pop();
-            if(res.empty() || p1.second!=res.back()){
                 res.push_back(p1.second);
                 p1.first--;
                 
@@ -22,20 +22,22 @@ public:
                 }
             }
             else{
+                pair<int,char>p2=p.top();
+                p.pop();
                 if(p.empty()){
                     return "";
                 }
-                pair<int,char>p2=p.top();
+                pair<int,char>p3=p.top();
                 p.pop();
-                res.push_back(p2.second);
+                res.push_back(p3.second);
                 
-                p2.first--;
+               
+                p3.first--;
 
-                if(p2.first>0){
                     p.push(p2);
-                }
-                if(p1.first>0){
-                    p.push(p1);
+                
+                if(p3.first>0){
+                    p.push(p3);
                 }
             }
         }
