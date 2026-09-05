@@ -10,34 +10,33 @@ public:
             p.push({it.second,it.first});
         }
           string res = "";
+          int seat=0;
         while(!p.empty()){
-            if(res.empty() || p.top().second!=res.back()){
             pair<int,char>p1=p.top();
             p.pop();
+            if(seat==0 || p1.second!=res[seat-1]){
                 res.push_back(p1.second);
                 p1.first--;
-                
+                seat++;
                 if(p1.first>0){
                     p.push(p1);
                 }
             }
             else{
-                pair<int,char>p2=p.top();
-                p.pop();
                 if(p.empty()){
                     return "";
                 }
-                pair<int,char>p3=p.top();
+                pair<int,char>p2=p.top();
                 p.pop();
-                res.push_back(p3.second);
-                
-               
-                p3.first--;
+                res.push_back(p2.second);
+                seat++;
+                p2.first--;
 
+                if(p2.first>0){
                     p.push(p2);
-                
-                if(p3.first>0){
-                    p.push(p3);
+                }
+                if(p1.first>0){
+                    p.push(p1);
                 }
             }
         }
