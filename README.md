@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RAVIKNR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RAVIKNR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RAVIKNR/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RAVIKNR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -96,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RAVIKNR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RAVIKNR/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Trie
 |  |
@@ -109,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RAVIKNR/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
