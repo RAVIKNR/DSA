@@ -10,14 +10,13 @@ public:
             p.push({it.second,it.first});
         }
           string res = "";
-          int seat=0;
         while(!p.empty()){
             pair<int,char>p1=p.top();
             p.pop();
-            if(seat==0 || p1.second!=res[seat-1]){
+            if(res.empty() || p1.second!=res.back()){
                 res.push_back(p1.second);
                 p1.first--;
-                seat++;
+                
                 if(p1.first>0){
                     p.push(p1);
                 }
@@ -29,7 +28,7 @@ public:
                 pair<int,char>p2=p.top();
                 p.pop();
                 res.push_back(p2.second);
-                seat++;
+                
                 p2.first--;
 
                 if(p2.first>0){
