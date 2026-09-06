@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RAVIKNR/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RAVIKNR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/RAVIKNR/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RAVIKNR/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RAVIKNR/DSA/tree/master/0875-koko-eating-bananas) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RAVIKNR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RAVIKNR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/RAVIKNR/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 ## Linked List
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RAVIKNR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RAVIKNR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RAVIKNR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/RAVIKNR/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 ## Bit Manipulation
@@ -117,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/RAVIKNR/DSA/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
