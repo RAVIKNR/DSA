@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RAVIKNR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/RAVIKNR/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RAVIKNR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/RAVIKNR/DSA/tree/master/0621-task-scheduler) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RAVIKNR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RAVIKNR/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/RAVIKNR/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/RAVIKNR/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RAVIKNR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
