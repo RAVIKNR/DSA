@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/RAVIKNR/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/RAVIKNR/DSA/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -134,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAVIKNR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RAVIKNR/DSA/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RAVIKNR/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RAVIKNR/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
