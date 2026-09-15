@@ -15,7 +15,7 @@ public:
            return;
         }
 
-        if(open<=n){
+        if(open<n){
             temp.push_back('(');
             gen(open+1,close,temp,ans,n);
             temp.pop_back();
