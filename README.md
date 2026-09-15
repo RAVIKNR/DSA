@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAVIKNR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/RAVIKNR/DSA/tree/master/0022-generate-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/RAVIKNR/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RAVIKNR/DSA/tree/master/0767-reorganize-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RAVIKNR/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -142,9 +143,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RAVIKNR/DSA/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/RAVIKNR/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RAVIKNR/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RAVIKNR/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RAVIKNR/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
