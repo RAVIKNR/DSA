@@ -9,7 +9,7 @@ public:
          return ans;
     }
 
-   void gen(int open,int close,string temp,vector<string> &ans,int n){
+   void gen(int open,int close,string &temp,vector<string> &ans,int n){
         if(open==n && close==n){
            ans.push_back(temp);
            return;
